@@ -1,6 +1,6 @@
 # Lung-Tumor-detection-Computer_Vision
 
-![Segmentation Demo](link_to_demo_image)
+![Segmentation Demo](https://github.com/KhushaliP/Lung-Tumor-detection-Computer_Vision/blob/main/images/Segnet-collage-cropped.png?raw=true)
 
 ## Overview
 
