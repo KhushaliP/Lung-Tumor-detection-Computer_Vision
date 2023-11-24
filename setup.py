@@ -4,11 +4,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='lung-tumor-segmentation',
-    version='0.0.0',
+    version='0.1.1',
     description='Lung tumor segmentation project',
-    author='Olga',
-    author_email='olgavish1@gmail.com',
-    url='https://github.com/Ola-Vish/lung-tumor-segmentation',
+    author='khushali',
+    author_email='khushalibpatel@gmail.com',
     install_requires=['pytorch-lightning'],
     packages=find_packages(),
 )
